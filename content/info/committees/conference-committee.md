@@ -145,7 +145,7 @@ permalink: /info/committees/conference-committee
 | **Supporters Chairs** | |
 | Eli T. Brown | *DePaul University* |
 | Benjamin Bach | *University of Edinburgh* |
-| Jürgen Bernhard | *University of Zurich* |
+| Jürgen Bernard | *University of Zurich* |
 |---
 | **Finance Chairs** | |
 | Loretta Auvil | *University of Illinois at Urbana-Champaign* |
